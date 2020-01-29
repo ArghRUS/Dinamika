@@ -1,0 +1,2 @@
+# Dinamika
+Auto command list
